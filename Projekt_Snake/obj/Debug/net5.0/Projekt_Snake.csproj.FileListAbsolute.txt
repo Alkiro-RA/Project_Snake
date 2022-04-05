@@ -1,0 +1,32 @@
+C:\Users\alkie\Desktop\Roger\Studia\Semestr 3\Programowanie obiektowe\Projekt zaliczeniowy\Projekt_Snake\Projekt_Snake\bin\Debug\net5.0\Projekt_Snake.exe
+C:\Users\alkie\Desktop\Roger\Studia\Semestr 3\Programowanie obiektowe\Projekt zaliczeniowy\Projekt_Snake\Projekt_Snake\bin\Debug\net5.0\Projekt_Snake.deps.json
+C:\Users\alkie\Desktop\Roger\Studia\Semestr 3\Programowanie obiektowe\Projekt zaliczeniowy\Projekt_Snake\Projekt_Snake\bin\Debug\net5.0\Projekt_Snake.runtimeconfig.json
+C:\Users\alkie\Desktop\Roger\Studia\Semestr 3\Programowanie obiektowe\Projekt zaliczeniowy\Projekt_Snake\Projekt_Snake\bin\Debug\net5.0\Projekt_Snake.runtimeconfig.dev.json
+C:\Users\alkie\Desktop\Roger\Studia\Semestr 3\Programowanie obiektowe\Projekt zaliczeniowy\Projekt_Snake\Projekt_Snake\bin\Debug\net5.0\Projekt_Snake.dll
+C:\Users\alkie\Desktop\Roger\Studia\Semestr 3\Programowanie obiektowe\Projekt zaliczeniowy\Projekt_Snake\Projekt_Snake\bin\Debug\net5.0\ref\Projekt_Snake.dll
+C:\Users\alkie\Desktop\Roger\Studia\Semestr 3\Programowanie obiektowe\Projekt zaliczeniowy\Projekt_Snake\Projekt_Snake\bin\Debug\net5.0\Projekt_Snake.pdb
+C:\Users\alkie\Desktop\Roger\Studia\Semestr 3\Programowanie obiektowe\Projekt zaliczeniowy\Projekt_Snake\Projekt_Snake\obj\Debug\net5.0\Projekt_Snake.csproj.AssemblyReference.cache
+C:\Users\alkie\Desktop\Roger\Studia\Semestr 3\Programowanie obiektowe\Projekt zaliczeniowy\Projekt_Snake\Projekt_Snake\obj\Debug\net5.0\Projekt_Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alkie\Desktop\Roger\Studia\Semestr 3\Programowanie obiektowe\Projekt zaliczeniowy\Projekt_Snake\Projekt_Snake\obj\Debug\net5.0\Projekt_Snake.AssemblyInfoInputs.cache
+C:\Users\alkie\Desktop\Roger\Studia\Semestr 3\Programowanie obiektowe\Projekt zaliczeniowy\Projekt_Snake\Projekt_Snake\obj\Debug\net5.0\Projekt_Snake.AssemblyInfo.cs
+C:\Users\alkie\Desktop\Roger\Studia\Semestr 3\Programowanie obiektowe\Projekt zaliczeniowy\Projekt_Snake\Projekt_Snake\obj\Debug\net5.0\Projekt_Snake.csproj.CoreCompileInputs.cache
+C:\Users\alkie\Desktop\Roger\Studia\Semestr 3\Programowanie obiektowe\Projekt zaliczeniowy\Projekt_Snake\Projekt_Snake\obj\Debug\net5.0\Projekt_Snake.dll
+C:\Users\alkie\Desktop\Roger\Studia\Semestr 3\Programowanie obiektowe\Projekt zaliczeniowy\Projekt_Snake\Projekt_Snake\obj\Debug\net5.0\ref\Projekt_Snake.dll
+C:\Users\alkie\Desktop\Roger\Studia\Semestr 3\Programowanie obiektowe\Projekt zaliczeniowy\Projekt_Snake\Projekt_Snake\obj\Debug\net5.0\Projekt_Snake.pdb
+C:\Users\alkie\Desktop\Roger\Studia\Semestr 3\Programowanie obiektowe\Projekt zaliczeniowy\Projekt_Snake\Projekt_Snake\obj\Debug\net5.0\Projekt_Snake.genruntimeconfig.cache
+G:\Inne komputery\Mój laptop\Roger\Studia\Semestr 3\Programowanie obiektowe\Projekt zaliczeniowy\Projekt_Snake\Projekt_Snake\bin\Debug\net5.0\Projekt_Snake.exe
+G:\Inne komputery\Mój laptop\Roger\Studia\Semestr 3\Programowanie obiektowe\Projekt zaliczeniowy\Projekt_Snake\Projekt_Snake\bin\Debug\net5.0\Projekt_Snake.deps.json
+G:\Inne komputery\Mój laptop\Roger\Studia\Semestr 3\Programowanie obiektowe\Projekt zaliczeniowy\Projekt_Snake\Projekt_Snake\bin\Debug\net5.0\Projekt_Snake.runtimeconfig.json
+G:\Inne komputery\Mój laptop\Roger\Studia\Semestr 3\Programowanie obiektowe\Projekt zaliczeniowy\Projekt_Snake\Projekt_Snake\bin\Debug\net5.0\Projekt_Snake.runtimeconfig.dev.json
+G:\Inne komputery\Mój laptop\Roger\Studia\Semestr 3\Programowanie obiektowe\Projekt zaliczeniowy\Projekt_Snake\Projekt_Snake\bin\Debug\net5.0\Projekt_Snake.dll
+G:\Inne komputery\Mój laptop\Roger\Studia\Semestr 3\Programowanie obiektowe\Projekt zaliczeniowy\Projekt_Snake\Projekt_Snake\bin\Debug\net5.0\ref\Projekt_Snake.dll
+G:\Inne komputery\Mój laptop\Roger\Studia\Semestr 3\Programowanie obiektowe\Projekt zaliczeniowy\Projekt_Snake\Projekt_Snake\bin\Debug\net5.0\Projekt_Snake.pdb
+G:\Inne komputery\Mój laptop\Roger\Studia\Semestr 3\Programowanie obiektowe\Projekt zaliczeniowy\Projekt_Snake\Projekt_Snake\obj\Debug\net5.0\Projekt_Snake.csproj.AssemblyReference.cache
+G:\Inne komputery\Mój laptop\Roger\Studia\Semestr 3\Programowanie obiektowe\Projekt zaliczeniowy\Projekt_Snake\Projekt_Snake\obj\Debug\net5.0\Projekt_Snake.GeneratedMSBuildEditorConfig.editorconfig
+G:\Inne komputery\Mój laptop\Roger\Studia\Semestr 3\Programowanie obiektowe\Projekt zaliczeniowy\Projekt_Snake\Projekt_Snake\obj\Debug\net5.0\Projekt_Snake.AssemblyInfoInputs.cache
+G:\Inne komputery\Mój laptop\Roger\Studia\Semestr 3\Programowanie obiektowe\Projekt zaliczeniowy\Projekt_Snake\Projekt_Snake\obj\Debug\net5.0\Projekt_Snake.AssemblyInfo.cs
+G:\Inne komputery\Mój laptop\Roger\Studia\Semestr 3\Programowanie obiektowe\Projekt zaliczeniowy\Projekt_Snake\Projekt_Snake\obj\Debug\net5.0\Projekt_Snake.csproj.CoreCompileInputs.cache
+G:\Inne komputery\Mój laptop\Roger\Studia\Semestr 3\Programowanie obiektowe\Projekt zaliczeniowy\Projekt_Snake\Projekt_Snake\obj\Debug\net5.0\Projekt_Snake.dll
+G:\Inne komputery\Mój laptop\Roger\Studia\Semestr 3\Programowanie obiektowe\Projekt zaliczeniowy\Projekt_Snake\Projekt_Snake\obj\Debug\net5.0\ref\Projekt_Snake.dll
+G:\Inne komputery\Mój laptop\Roger\Studia\Semestr 3\Programowanie obiektowe\Projekt zaliczeniowy\Projekt_Snake\Projekt_Snake\obj\Debug\net5.0\Projekt_Snake.pdb
+G:\Inne komputery\Mój laptop\Roger\Studia\Semestr 3\Programowanie obiektowe\Projekt zaliczeniowy\Projekt_Snake\Projekt_Snake\obj\Debug\net5.0\Projekt_Snake.genruntimeconfig.cache

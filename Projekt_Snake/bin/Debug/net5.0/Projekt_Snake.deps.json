@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Projekt_Snake/1.0.0": {
+        "runtime": {
+          "Projekt_Snake.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projekt_Snake/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

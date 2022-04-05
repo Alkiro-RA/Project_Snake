@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Game>
+    <Run>false</Run>
+    <Player>
+      <Name>game1</Name>
+      <Score>5</Score>
+    </Player>
+    <Action>RightArrow</Action>
+    <GameSpeed>200</GameSpeed>
+  </Game>
+</ArrayOfGame>
