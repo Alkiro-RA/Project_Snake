@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Projekt_Snake
 {
@@ -10,21 +6,18 @@ namespace Projekt_Snake
     {
         private string _name;
         private int _score;
-        public Player()
-        {
-            Name = string.Empty;
-            Score = 0;
-        }
         public Player(string name)
         {
             Name = name;
             Score = 0;
         }
+        
         public override string ToString()
         {
             return $"Player's name: {Name}\n" +
                 $"Player's score: {Score}";
-        }
+        } // returns string showing player's game info (nick, score)
+        
         public string Name
         {
             get => _name;

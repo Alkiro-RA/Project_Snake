@@ -4,6 +4,7 @@ using System.Collections.Generic;
 namespace Projekt_Snake
 {
     class Program
+        // it is class that basically handles menu screen
     {
         private static string _path = @".\games.xml";
         private bool _run;
@@ -64,7 +65,31 @@ namespace Projekt_Snake
 
                 }
             }
-        }
+        }// application's menu - it's responible for running whole program
+        private void SortTopGames()
+        {
+            try
+            {
+                for (int i = 0; i < TopGames.Count; i++)
+                {
+                    for (int j = 0; j < TopGames.Count; j++)
+                    {
+                        int scoreA = TopGames[i].Player.Score;
+                        int scoreB = TopGames[j].Player.Score;
+                        if (scoreA > scoreB)
+                        {
+                            Game tempG = TopGames[i];
+                            TopGames[i] = TopGames[j];
+                            TopGames[j] = tempG;
+                        }
+                    }
+                }
+            }
+            catch (NullReferenceException)
+            {
+                return;
+            }
+        } // method adds new records of games to the list and sorts it from higherst to lowest score
         private void ShowTopGames()
         {
             Console.Clear();
@@ -79,7 +104,7 @@ namespace Projekt_Snake
                     break;
                 }
             }
-        }
+        } 
         private void SerializeTopGames()
         {
             ISerialize<Game> xmlSerializer = new XmlSerializer<Game>(_path);
@@ -89,7 +114,7 @@ namespace Projekt_Snake
                 TopGames.RemoveRange(10, del);
             }
             xmlSerializer.Serialize(TopGames);
-        }
+        } // serialize list of Games (maximum no. of records is 10)
         private void DeserlializeTopGames()
         {
             ISerialize<Game> xmlSerializer = new XmlSerializer<Game>(_path);
@@ -117,7 +142,7 @@ namespace Projekt_Snake
                 Console.WriteLine(e.Message);
             }
             return nick;
-        }
+        }// used to set player's nickname 
         private static int GetUserInput()
         {
             int input = 0;
@@ -134,31 +159,8 @@ namespace Projekt_Snake
                 }
             }
             return input;
-        }
-        private void SortTopGames()
-        {
-            try
-            {
-                for (int i = 0; i < TopGames.Count; i++)
-                {
-                    for (int j = 0; j < TopGames.Count; j++)
-                    {
-                        int scoreA = TopGames[i].Player.Score;
-                        int scoreB = TopGames[j].Player.Score;
-                        if (scoreA > scoreB)
-                        {
-                            Game tempG = TopGames[i];
-                            TopGames[i] = TopGames[j];
-                            TopGames[j] = tempG;
-                        }
-                    }
-                }
-            }
-            catch (NullReferenceException)
-            {
-                return;
-            }
-        }
+        }// used to manipulate menu
+        
         public bool Run
         {
             get => _run;

@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Projekt_Snake
 {
@@ -14,6 +10,7 @@ namespace Projekt_Snake
         {
             ScoreModifier = 1;
         }
+        
         public override void DrawFruit()
         {
             Console.SetCursorPosition(X, Y);
@@ -33,7 +30,8 @@ namespace Projekt_Snake
         public override bool TimeExpired(int i)
         {
             return false;
-        }//dla picu, ale musi być
+        }// blueprint's requirement..
+        
         public override int ScoreModifier
         {
             get => _points;

@@ -1,13 +1,10 @@
 ﻿using System;
 using System.Threading;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Projekt_Snake
 {
     public class Game
+        // this class is responsible for handling all the things from the start to the finish of one played game
     {
         private const int boardWidth = 22;
         private const int boardHeight = 12;
@@ -22,18 +19,12 @@ namespace Projekt_Snake
             GameSpeed = 200;
             Action = ConsoleKey.DownArrow;
         }
-        public Game()//testowanie
-        {
-            Run = true;
-            Player = new Player();
-            GameSpeed = 200;
-            Action = ConsoleKey.DownArrow;
-        }
+        
         public void ShowGameInfo()
         {
             Console.WriteLine(Player.ToString());
             Console.WriteLine();
-        }
+        }// responsible for showing player's result (nickname and score)
         public bool RunGame()
         {
             Snake snake = new Snake();
@@ -65,7 +56,7 @@ namespace Projekt_Snake
                 Thread.Sleep(GameSpeed);
             }
             return Run;
-        }
+        } // responsible for whole game logic
         public void DrawBoard()
         {
             Console.Clear();
@@ -115,7 +106,7 @@ namespace Projekt_Snake
                 Pause(snake);
             else
                 snake.Move(Action);
-        }
+        } // manipulate snake's movement
         private void Pause(Snake snake)
         {
             Console.WriteLine();
@@ -161,13 +152,14 @@ namespace Projekt_Snake
         public static int RandomX()
         {
             Random rand = new Random();
-            return rand.Next(2, (boardWidth - 2));
+            return rand.Next(2, boardWidth - 2);
         }
         public static int RandomY()
         {
             Random rand = new Random();
-            return rand.Next(2, (boardHeight - 2));
+            return rand.Next(2, boardHeight - 2);
         }
+        
         public bool Run
         {
             get => _run;
@@ -194,8 +186,5 @@ namespace Projekt_Snake
                     _gameSpeed = value;
             }
         }
-
-        //testownie
-
     }
 }

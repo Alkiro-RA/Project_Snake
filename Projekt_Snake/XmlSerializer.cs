@@ -12,6 +12,7 @@ namespace Projekt_Snake
         {
             _path = path;
         }
+        
         public void Serialize(List<T> list)
         {
             Console.WriteLine("XML Serialization started.");

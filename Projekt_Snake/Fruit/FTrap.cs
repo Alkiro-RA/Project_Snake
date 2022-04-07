@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Projekt_Snake
 {
@@ -15,6 +11,7 @@ namespace Projekt_Snake
             ScoreModifier = 5;
             Timer = 4000;
         }
+        
         public override void DrawFruit()
         {
             Console.SetCursorPosition(X, Y);
@@ -42,6 +39,7 @@ namespace Projekt_Snake
             else
                 return false;
         }
+        
         public override int ScoreModifier
         {
             get => _penalty;

@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Projekt_Snake
 {
@@ -11,7 +7,7 @@ namespace Projekt_Snake
         private int[] _x;
         private int[] _y;
         private int _size;
-        private ConsoleKey _lastMove;
+        private ConsoleKey _lastMove; // created to resolve problem when user's last imput was a pause button 
         public Snake()
         {
             X = new int[200];
@@ -20,6 +16,7 @@ namespace Projekt_Snake
             X[0] = 5;
             Y[0] = 5;
         }
+        
         public void SetSnakeParts()
         {
             for (int i = Size; i > 1; i--) //zaczyna od ogona 
@@ -74,7 +71,7 @@ namespace Projekt_Snake
                     }
             }
         }
-        public void RepeatMove()
+        public void RepeatMove() // here it changes "esc" (pause button) to last arrowkey imput there was, so that game doesn't freeze
         {
             if (LastMove == ConsoleKey.UpArrow)
                 Y[0]--;
@@ -129,6 +126,7 @@ namespace Projekt_Snake
                 Console.Write("#");
             }
         }
+        
         public int[] X
         {
             get => _x;

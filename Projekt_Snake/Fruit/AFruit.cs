@@ -1,23 +1,20 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Projekt_Snake
 {
-    abstract class AFruit //rodzic  
+    abstract class AFruit // parrent class
+        // blueprint for all other "score classes"
     {
-        //static int Timer = 10000;
         private int _x;
         private int _y;
         protected AFruit()
         {
             Spawn();
         }
+        
         public abstract void DrawFruit();
         public abstract bool FruitEaten(Player player, Snake snake);
-        public abstract bool TimeExpired(int i);
+        public abstract bool TimeExpired(int i); // it's used to make Bonus and Trap fruits temporary objects on the map
         private void Spawn()
         {
             X = Game.RandomX();
@@ -53,6 +50,7 @@ namespace Projekt_Snake
             else
                 return new FTrap();
         }
+        
         public abstract int ScoreModifier
         {
             get;
@@ -73,6 +71,5 @@ namespace Projekt_Snake
             get => _y;
             set => _y = value;
         }
-
     }
 }
