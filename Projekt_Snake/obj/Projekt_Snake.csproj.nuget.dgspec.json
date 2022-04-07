@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Inne komputery\\Mój laptop\\Roger\\Studia\\Semestr 3\\Programowanie obiektowe\\Projekt zaliczeniowy\\Projekt_Snake\\Projekt_Snake\\Projekt_Snake.csproj": {}
+    "C:\\Users\\alkie\\Desktop\\Roger\\Studia\\Semestr 3\\Programowanie obiektowe\\Projekt zaliczeniowy\\Projekt_Snake\\Projekt_Snake\\Projekt_Snake.csproj": {}
   },
   "projects": {
-    "G:\\Inne komputery\\Mój laptop\\Roger\\Studia\\Semestr 3\\Programowanie obiektowe\\Projekt zaliczeniowy\\Projekt_Snake\\Projekt_Snake\\Projekt_Snake.csproj": {
+    "C:\\Users\\alkie\\Desktop\\Roger\\Studia\\Semestr 3\\Programowanie obiektowe\\Projekt zaliczeniowy\\Projekt_Snake\\Projekt_Snake\\Projekt_Snake.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Inne komputery\\Mój laptop\\Roger\\Studia\\Semestr 3\\Programowanie obiektowe\\Projekt zaliczeniowy\\Projekt_Snake\\Projekt_Snake\\Projekt_Snake.csproj",
+        "projectUniqueName": "C:\\Users\\alkie\\Desktop\\Roger\\Studia\\Semestr 3\\Programowanie obiektowe\\Projekt zaliczeniowy\\Projekt_Snake\\Projekt_Snake\\Projekt_Snake.csproj",
         "projectName": "Projekt_Snake",
-        "projectPath": "G:\\Inne komputery\\Mój laptop\\Roger\\Studia\\Semestr 3\\Programowanie obiektowe\\Projekt zaliczeniowy\\Projekt_Snake\\Projekt_Snake\\Projekt_Snake.csproj",
+        "projectPath": "C:\\Users\\alkie\\Desktop\\Roger\\Studia\\Semestr 3\\Programowanie obiektowe\\Projekt zaliczeniowy\\Projekt_Snake\\Projekt_Snake\\Projekt_Snake.csproj",
         "packagesPath": "C:\\Users\\alkie\\.nuget\\packages\\",
-        "outputPath": "G:\\Inne komputery\\Mój laptop\\Roger\\Studia\\Semestr 3\\Programowanie obiektowe\\Projekt zaliczeniowy\\Projekt_Snake\\Projekt_Snake\\obj\\",
+        "outputPath": "C:\\Users\\alkie\\Desktop\\Roger\\Studia\\Semestr 3\\Programowanie obiektowe\\Projekt zaliczeniowy\\Projekt_Snake\\Projekt_Snake\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alkie\\AppData\\Roaming\\NuGet\\NuGet.Config",
